@@ -1,5 +1,5 @@
 # InvoicePlane-Templates
-Invoice Templates for InvoicePlane that incluce ABN, BSB &amp; Acct Numbers
+Invoice Templates for InvoicePlane that incluce ABN, BSB &amp; Account Numbers
 
 This will add the following section to all 3 invoice types (standard, paid & overdue)
 
