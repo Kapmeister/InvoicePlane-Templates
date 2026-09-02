@@ -7,7 +7,7 @@ This will add the following section to all 3 invoice types (standard, paid & ove
 
 1. **Create the following 3 custom fields**
 
-   ![Create Fileds](./img/CreateFields.png)
+   ![Create Fileds](img/CreateFields.png)
 
 2. **Update the fields accordingly**
 
@@ -19,7 +19,7 @@ This will add the following section to all 3 invoice types (standard, paid & ove
 
    When creating an invoice, ensure that `Direct Deposit` is selected as the payment method. 
 
-4. **Upload the files,edit ipconfig.php to include them, then select them in the invoice setup**
+4. **Upload the files, edit ipconfig.php to include them, then select them in the invoice setup**
 
    Full instructions here:
 
